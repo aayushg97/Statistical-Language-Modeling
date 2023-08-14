@@ -69,7 +69,7 @@ The following table shows the ten most likely words to follow the word “THE”
 | Sentence | Log-likelihood under unigram model | Log-likelihood under unigram model |
 | --- | --- | --- |
 | “The stock market fell by one hundred points last week.” | -64.509 | -40.918 |
-| “The sixteen officials sold fire insurance.” | -44.292 | $-\infty$ (Bigrams (SIXTEEN, OFFICIALS) and (SOLD, FIRE) are not observed in the training corpus.) |
+| “The sixteen officials sold fire insurance.” | -44.292 | $-\infty$ (Bigrams [SIXTEEN, OFFICIALS] and [SOLD, FIRE] are not observed in the training corpus.) |
 
 ## Mixture model
 
